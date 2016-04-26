@@ -1,5 +1,5 @@
 /*
-Copyright (C) 2014 Sadman Kazi, Wojciech Swiderski, Serge Babayan, Shan Phylim
+Copyright (C) 2016  Abhinav Narayanan
 
 This file is part of MyoPad.
 
